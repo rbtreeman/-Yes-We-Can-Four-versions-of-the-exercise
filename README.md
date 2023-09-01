@@ -26,5 +26,5 @@ All materials are stored in one zipped folder "YesWeCan-YYYY-MM-DD.zip".
 ### YesWeCan-3023-09-01.zip
 This is the most up-to-date version of the exercises.  It corrects some errors in the original (2023-07-27) version.
 
-### YesWeCan-3023-07-27.zip
+### YesWeCan-2023-07-27.zip
 This version of the exercises was posted from the publication date of the article, 2023-07-27.
